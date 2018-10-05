@@ -1,0 +1,5 @@
+library(plumber)
+library(checkLuhn)
+library(ggplot2)
+r <- plumber::plumb("api.R")
+r$run(port=8123)
