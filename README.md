@@ -6,7 +6,7 @@ This is just a POC to demostrate pumber.
 
 ### Getting Started
 
-Run the server.R, this will create an API on http://localhost:8123.
+run `source(server.R)`, this will create an API on http://localhost:8123.
 
 Next try these URLs:
 
